@@ -7,7 +7,7 @@ public class Main {
 //    }
 //    static int three(int result3){
 //        return result3;
-//    }
+//    } - тут я пробувала запустити методи з мейну (Повторить задание 2, но выполнить его в отдельных методах и запустить эти методы в методе Main)
 
 
     public static void main(String[] args) {
@@ -48,6 +48,7 @@ public class Main {
 //                System.out.println(number + "even");
 //            else System.out.println(number + "odd");
 //
-//        }
+//        } - тут я пробувала виконати завданя С помощью класса Scanner ввести целое число. Далее создайте условие, если это число четное то выведите сообщение "Четное число", если нет то "Не четное число"
+
 
     }
