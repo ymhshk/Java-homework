@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         //first task
-        int myInt = 20398290; //type variableName = value;
+        int myInt = 20398290;
         short myShort = 32500;
         byte myByte = 120;
         long myLong = 94387392;
@@ -51,7 +51,6 @@ public class Main {
         } else {
             System.out.println(number + " is odd");
         }
-
     }
 
-    }
+}
